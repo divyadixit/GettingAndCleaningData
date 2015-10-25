@@ -30,6 +30,8 @@ This dataset should be downloaded and extracted directly into the working direct
 * Checks for records with any NA or missing values
 * Outputs a summarized tidy data file per activities per subject/volunteer
 
+## Packages used :
+* Reshape2 package was used for reshaping the dataset. The user will need to have this package installed before running the R script.
 
 ## License
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
